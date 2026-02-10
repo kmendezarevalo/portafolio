@@ -1,0 +1,11 @@
+# Local configuration
+.env
+.DS_Store
+
+# XAMPP specific (if any)
+cgi-bin/
+
+# Artifacts
+task.md
+implementation_plan.md
+walkthrough.md
